@@ -120,7 +120,7 @@ To run the tests locally, run `swift test` from the Kitura-Sample directory.
 
 ## Running in Xcode
 
-You can also run this sample application inside Xcode. For more details, visit [kitura.io](http://www.kitura.io/en/starter/xcode.html).
+You can also run this sample application inside Xcode. For more details, visit [kitura.io](https://www.kitura.io/guides/building/xcodebuild.html).
 
 ## Running with Docker
 A description of the files related to Docker can be found in the [Docker files](#docker-files) setion. To build the two docker images, run the following commands from the root directory of the project:
